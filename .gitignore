@@ -4,6 +4,7 @@
 *.kicad_pcb-bak
 *.sch-bak
 *~
+*-backups
 
 # Ignore KiCad autosave files
 *.tmp
